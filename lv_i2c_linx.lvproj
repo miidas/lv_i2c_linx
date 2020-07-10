@@ -12,7 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="lv_i2c_linx.lvlib" Type="Library" URL="../lv_i2c_linx.lvlib"/>
-		<Item Name="lv_i2c_hal.lvlib" Type="Library" URL="../../lv_i2c_hal/lv_i2c_hal.lvlib"/>
+		<Item Name="lv_i2c_hal.lvlib" Type="Library" URL="/&lt;vilib&gt;/miidas/lv_i2c_hal/lv_i2c_hal.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
