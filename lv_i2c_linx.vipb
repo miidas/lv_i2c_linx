@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2020-07-10 22:21:08" Modified_Date="2020-07-10 22:23:30" Creator="user" Comments="" ID="a7fa157d080f55f5ee3230159a193a85">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-07-10 22:21:08" Modified_Date="2020-07-11 00:36:41" Creator="user" Comments="" ID="149f1d9836bf77223e66f30ea14563a6">
   <Library_General_Settings>
     <Package_File_Name>lv_i2c_linx</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\VIPM\Build</Library_Output_Folder>
@@ -111,9 +111,6 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
@@ -213,7 +210,7 @@
         <Path>LINX I2C</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EABBE190C396083B68227CDD1ABA468C</GUID>
+      <GUID>136E654F2D3B95541A234C89BDC3DEEF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -304,7 +301,7 @@
         <Path>LINX I2C\Write.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F4C10107EC6E9BF954F7C128FFEF5E2B</GUID>
+      <GUID>6A3BA0CCF91560A8439DE8D4C8C18823</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
